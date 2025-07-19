@@ -1,15 +1,10 @@
-The **Notes Page** is a simple module within the HRMS system that allows users (typically Admins or HR staff) to add and manage personal or project-related notes.
+#  Notes App
 
-### Features
-- Create a new note with a title and description
-- Display a list of all notes
-- Delete a note from the list
-- (Optional) Edit note functionality can be added
+A simple and responsive **Notes App** built with React. This application allows users to create, view, and delete personal notes with a clean user interface.
 
-### Technologies Used
-- React functional components
-- `useState` for managing note data
-- Basic form handling
-- Local state (can be connected to API later)
 
-### File Location
+## Features
+
+-  Add new notes with title and content
+-  Delete notes instantly
+
